@@ -48,9 +48,9 @@
 
 ### ✦ Latest from the blog
 
-<!-- BLOG-POST-LIST:START -->- [**PRDs for AI products: specifying when the model is the feature**](https://manumartinez.dev/en/blog/prds-for-ai-products) · Nov 11, 2026 
-- [**The accent**](https://manumartinez.dev/en/blog/el-acento) · Oct 9, 2026 
-- [**Founding a company in a country that isn&#39;t yours**](https://manumartinez.dev/en/blog/fundar-una-empresa-en-un-pais-que-no-es-el-tuyo) · Sep 10, 2026 
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [**PRDs for AI products: specifying when the model is the feature**](https://manumartinez.dev/en/blog/prds-for-ai-products) · Nov 11, 2026
+- [**The accent**](https://manumartinez.dev/en/blog/el-acento) · Oct 9, 2026
+- [**Founding a company in a country that isn&#39;t yours**](https://manumartinez.dev/en/blog/fundar-una-empresa-en-un-pais-que-no-es-el-tuyo) · Sep 10, 2026<!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://manumartinez.dev/en/blog">Subscribe to the weekly newsletter →</a></p>
