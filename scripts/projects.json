@@ -1,0 +1,114 @@
+[
+  {
+    "slug": "milano",
+    "name": "Milano",
+    "tag": "Operations platform with an AI team for services companies",
+    "status": "In production (internal use) · private SaaS beta",
+    "cover": "/projects/milano.jpg",
+    "stack": [
+      "Next.js 16",
+      "React 19",
+      "MongoDB",
+      "Clerk",
+      "MCP · AI Gateway"
+    ]
+  },
+  {
+    "slug": "job-radar",
+    "name": "Job Radar",
+    "tag": "A job-search agent that runs on your own computer: it finds offers, scores them with Claude and drafts applications you send yourself",
+    "status": "Open source · v0.1",
+    "cover": "/projects/job-radar.jpg",
+    "stack": [
+      "TypeScript · Next.js 16",
+      "Vercel AI SDK · Claude Code",
+      "Electron (macOS)",
+      "SQLite · Drizzle",
+      "Playwright · Docker"
+    ]
+  },
+  {
+    "slug": "parrot",
+    "name": "Parrot",
+    "tag": "Living documentation and an AI-queryable second brain",
+    "status": "Internal beta",
+    "cover": "/projects/parrot.jpg",
+    "stack": [
+      "Next.js 15",
+      "Turborepo",
+      "MongoDB Atlas",
+      "Pinecone",
+      "AI Gateway · Claude"
+    ]
+  },
+  {
+    "slug": "fintio",
+    "name": "Fintio",
+    "tag": "Personal annual budget planner for European households",
+    "status": "Public MVP in production",
+    "cover": "/projects/fintio.jpg",
+    "stack": [
+      "Next.js 16",
+      "React 19",
+      "TypeScript",
+      "MongoDB Atlas",
+      "Clerk"
+    ]
+  },
+  {
+    "slug": "estado-rutas",
+    "name": "Estado de rutas · Río Negro",
+    "tag": "The official road-conditions report, turned into a map and an AI trip planner",
+    "status": "In production · official report data",
+    "cover": "/projects/rutas.jpg",
+    "stack": [
+      "Next.js 16",
+      "AI SDK · Claude",
+      "MongoDB",
+      "Leaflet",
+      "Vercel Blob"
+    ]
+  },
+  {
+    "slug": "portia",
+    "name": "Portia Vestidos",
+    "tag": "An online store for bridal and party dresses from a shop in Patagonia",
+    "status": "In production",
+    "cover": "/projects/portia.jpg",
+    "stack": [
+      "Next.js 16",
+      "Shopify Storefront API",
+      "Tailwind CSS 4",
+      "Vitest · Playwright",
+      "Vercel"
+    ]
+  },
+  {
+    "slug": "sentinel",
+    "name": "Sentinel",
+    "tag": "A personal macOS agent that watches Slack, GitHub, my calendar and email, and drafts replies for my approval",
+    "status": "Personal use · v0.1",
+    "cover": "/projects/sentinel.jpg",
+    "stack": [
+      "TypeScript · Node.js",
+      "Claude Agent SDK",
+      "MCP (Slack, Gmail, Calendar)",
+      "SwiftUI",
+      "SQLite"
+    ]
+  },
+  {
+    "slug": "gtm-os",
+    "name": "Collybrix GTM OS",
+    "tag": "Internal prospecting and sales-pipeline cockpit, with AI reply classification",
+    "status": "In internal use",
+    "cover": "/projects/gtm-os.jpg",
+    "stack": [
+      "Next.js 16",
+      "Postgres · Drizzle",
+      "Better Auth",
+      "Vercel AI Gateway · Claude",
+      "shadcn/ui · Recharts"
+    ]
+  }
+]
