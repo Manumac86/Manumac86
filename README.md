@@ -13,6 +13,8 @@
 
 ### ✦ Selected work
 
+<sub>Most of my product and client work lives in private repositories (here and on GitLab), so each card links to its case study on my site. Job Radar is open source.</sub>
+
 <p>
   <a href="https://manumartinez.dev/en/projects/milano"><img src="./assets/projects/milano.png" width="49%" alt="Milano — Operations platform with an AI team for services companies" /></a>
   <a href="https://github.com/Manumac86/job-radar"><img src="./assets/projects/job-radar.png" width="49%" alt="Job Radar — open-source job-search agent that runs on your own computer" /></a>
